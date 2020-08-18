@@ -1,0 +1,15 @@
+Package: chen40770data1
+Type: Package
+Title: Data package for CHEN40770 to demonstrate the use of R to
+        analyse bioprocess data
+Version: 0.1.0
+Author: Colin Clarke
+Maintainer: Colin Clarke <colin.clarke1@ucd.ie>
+Description: 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.1)
+URL: https://github.com/colin986/chen40770_first_data
+NeedsCompilation: no
+Packaged: 2020-08-18 10:57:58 UTC; colinclarke

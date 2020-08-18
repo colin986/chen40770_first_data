@@ -1,0 +1,10 @@
+* using log directory ‘/Users/colinclarke/Working/UCD data testing/r package/chen40770data1.Rcheck’
+* using R version 4.0.1 (2020-06-06)
+* using platform: x86_64-apple-darwin17.0 (64-bit)
+* using session charset: UTF-8
+* using options ‘--no-manual --as-cran’
+* checking for file ‘chen40770data1/DESCRIPTION’ ... ERROR
+Required field missing or empty:
+  ‘Description’
+* DONE
+Status: 1 ERROR
